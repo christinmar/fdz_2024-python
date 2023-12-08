@@ -26,6 +26,9 @@ Nach erfolgreicher Teilnahme an dem Workshop können Sie:
 -  Daten importieren und exportieren.
 -  Daten in geeigneter Form visualisieren.
 
-## Voraussetzungen
+## Voraussetzungen, Installation und Vorbereitung
 
-Um an dem Workshop teilnehmen zu können, ist ein Rechner erforderlich. Außerdem sollte im Vorfeld Python und Anconda installiert werden. Eine Anleitung hierfür findet sich unter: 
+Um an dem Workshop teilnehmen zu können, ist ein Rechner erforderlich. Bevor wir mit der Programmierung beginnen können, installieren wir Python und richten unsere Entwicklungsumgebung ein.
+1. Zunächst muss Python installiert werden (https://www.python.org/downloads/)
+2. Als nächstes installieren wir den Anconda Navigator. Dieser erleichtert uns die Installation von Bibliotheken und die Verwaltung unserer Entwicklungsumgebungen. Für eine Übersicht über den Anaconda Navigator und für die Einrichtung einer Entwicklungsumgebung sehen Sie sich bitte das Video **02_Anaconda** an. 
+3. Als letztes machen wir uns noch vertraut mit der Installation von Bibliotheken und mit Jupyter Notebooks. Mit Hilfe von Bibliotheken können wir bspw. auf bereits vordefinierte Funktionen zurückgreifen. Jupyter Notebooks sind eine Open-Source-Webanwendung, in der wir mit `Python` (aber auch mit `R` und `Julia`) übersichtlich und strukturiert programmieren können. Sehen Sie sich hierfür bitte die Videos **03_JupyterNotebook** und **04_Installieren_Bibliotheken** an. 
