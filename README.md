@@ -1,6 +1,6 @@
 # Einführung in `Python`
 
-Materialien für den Workshop "Einführung in Python" der FDZ-Frühjahrsakademie 2014.
+Materialien für den Workshop "Einführung in Python" der FDZ-Frühjahrsakademie 2024.
 
 von Christine Distler
 
